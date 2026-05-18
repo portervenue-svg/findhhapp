@@ -9,7 +9,8 @@ PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE APP. BY CREATING AN ACCOUNT O
 1. Agreement to Terms
 This End User License Agreement and Terms of Service ("Agreement") is a legal agreement between you ("User," "you," or "your") and Find HH ("Company," "we," "us," or "our") governing your use of the HH Dallas Happy Hour mobile application ("App").
 By downloading, installing, accessing, or using the App, you confirm that you are at least 17 years of age, that you have read and understood this Agreement, and that you agree to be bound by its terms.
-2. License Grant
+
+3. License Grant
 Subject to your compliance with this Agreement, we grant you a limited, non-exclusive, non-transferable, revocable license to download and use the App on your personal device for personal, non-commercial purposes.
 You may not:
 •	Copy, modify, distribute, sell, or lease any part of the App
@@ -18,7 +19,7 @@ You may not:
 •	Use the App to transmit any harmful, offensive, or objectionable content
 •	Attempt to gain unauthorized access to any part of the App or its infrastructure
 
-3. User Accounts
+4. User Accounts
 To access certain features of the App, you must create an account. You agree to:
 •	Provide accurate and complete information when creating your account
 •	Keep your password secure and not share it with others
@@ -26,6 +27,7 @@ To access certain features of the App, you must create an account. You agree to:
 •	Be responsible for all activity that occurs under your account
 
 We reserve the right to suspend or terminate your account if we determine, in our sole discretion, that you have violated this Agreement.
+
 4. Account Deletion
 You may delete your account at any time from within the App by navigating to Settings > Account > Delete Account. Account deletion is permanent and irreversible. Upon deletion:
 •	Your account and profile information will be permanently removed
@@ -33,6 +35,7 @@ You may delete your account at any time from within the App by navigating to Set
 •	You will lose access to any saved venues or preferences
 
 We will process account deletion requests within 30 days. Some data may be retained for legal or fraud-prevention purposes as described in our Privacy Policy.
+
 5. User-Generated Content
 The App allows users to submit happy hour information, venue details, and other content ("User Content"). By submitting User Content, you:
 •	Represent that you have the right to submit the content and that it is accurate
@@ -50,6 +53,7 @@ You agree NOT to submit User Content that:
 •	Is otherwise objectionable in our sole discretion
 
 We have a zero-tolerance policy for objectionable content and abusive users. Violations will result in immediate content removal and account termination.
+
 6. Content Moderation & Reporting
 We are committed to maintaining a safe, accurate, and respectful community. The following mechanisms are available to all users:
 Reporting Content
@@ -65,8 +69,10 @@ Our Commitments
 7. Age Requirements & Alcohol Content
 The App is intended for users who are at least 17 years of age. The App contains references to alcoholic beverages and is not appropriate for users under 17. By using the App, you confirm that you are at least 17 years old.
 The App does not encourage underage drinking or intoxication. Information provided is for lawful use by adults of legal drinking age in their jurisdiction.
+
 8. Third-Party Login Services
 The App may offer login options through third-party services including Sign in with Apple. Use of third-party login services is subject to those services' own terms and privacy policies. We limit data collection from third-party login to your name and email address only.
+
 9. Disclaimers & Limitation of Liability
 THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND. WE DO NOT WARRANT THAT:
 •	Happy hour information is accurate, current, or complete at the time of viewing
@@ -74,10 +80,13 @@ THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND. WE DO NOT WARRANT TH
 •	Any venue information, specials, or deals will be honored by the venue
 
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, Find HH SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF THE APP.
+
 10. Changes to This Agreement
 We may update this Agreement at any time. We will notify you of material changes by displaying a notice in the App or by email. Continued use of the App after changes take effect constitutes your acceptance of the revised Agreement.
+
 11. Governing Law
 This Agreement shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of law provisions. Any disputes arising from this Agreement shall be resolved in the courts of Dallas County, Texas.
+
 12. Contact Us
 If you have questions about this Agreement or wish to report content, please contact us:
 
@@ -108,6 +117,7 @@ b. Information Collected Automatically
 
 c. Location Information
 If you grant permission, the App accesses your device’s location solely to show nearby venues and sort results by distance. Location data is processed on-device and is not stored on our servers or shared with third parties. You may revoke location permission at any time in your device settings.
+
 3. How We Use Your Information
 We use the information we collect to:
 •	Create and manage your account
@@ -117,10 +127,13 @@ We use the information we collect to:
 •	Investigate and act on reports of objectionable content or abusive behavior
 •	Comply with legal obligations and enforce our Terms of Service
 
+
 We do not sell your personal information. We do not use your data for advertising purposes.
+
 4. User-Submitted Content
 When you submit happy hour listings or venue information through the App, that content becomes part of the App’s database and may be visible to other users. Please do not include personal information in content submissions. We reserve the right to edit, moderate, or remove any submitted content that violates our Terms of Service.
 If you submit content that is found to be objectionable or in violation of our policies, we will remove it within 24 hours of it being reported, and your account may be suspended or terminated.
+
 5. Data Sharing
 We do not share your personal information with third parties except in the following limited circumstances:
 •	Service providers: Trusted third-party services (e.g., cloud hosting, analytics, authentication) that process data on our behalf under strict confidentiality agreements
@@ -130,24 +143,31 @@ We do not share your personal information with third parties except in the follo
 
 6. Data Retention
 We retain your account information for as long as your account is active. User-submitted content may be retained after account deletion in anonymized form for database integrity purposes.
-7. Account Deletion
+
+8. Account Deletion
 You may permanently delete your account at any time by navigating to Settings > Account > Delete Account within the App. Upon deletion:
 •	Your account credentials and profile data will be permanently removed within 30 days
 •	Your submitted content may be anonymized or removed
 •	Some data may be retained for legal, fraud-prevention, or regulatory purposes
 
 Account deletion is irreversible. If you wish to use the App again after deletion, you will need to create a new account.
+
 8. Your Rights
 Depending on your location, you may have the right to access, correct, or delete your personal information; opt out of certain data processing; and receive a copy of data we hold about you. To exercise any of these rights, contact us at portervenue@gmail.com. We will respond within 30 days.
+
 9. Security
 We implement reasonable technical and organizational measures to protect your information, including encryption of passwords and secure data transmission. However, no method of electronic storage or transmission is 100% secure, and we cannot guarantee absolute security.
-10. Children’s Privacy
+
+11. Children’s Privacy
 The App is not directed to individuals under the age of 17. We do not knowingly collect personal information from anyone under 17. If we become aware that we have inadvertently collected such information, we will delete it promptly.
-11. Third-Party Services
+
+13. Third-Party Services
 The App may use third-party login services (such as Sign in with Apple) and may display links to third-party venue websites. We are not responsible for the privacy practices of those third parties and encourage you to review their policies.
-12. Changes to This Policy
+
+15. Changes to This Policy
 We may update this Privacy Policy from time to time. We will notify you of material changes by updating the effective date and, where appropriate, by in-app notification or email. Continued use of the App following any changes constitutes your acceptance of the updated policy.
-13. Contact Us
+
+17. Contact Us
 If you have questions about this Privacy Policy, want to report a privacy concern, or wish to exercise your data rights, please contact us:
 
 Email: portervenue@gmail.com
