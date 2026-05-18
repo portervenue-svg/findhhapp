@@ -93,7 +93,9 @@ If you have questions about this Agreement or wish to report content, please con
 Email: portervenue@gmail.com
 Website: www.findhhapp.com
 Company: Find HH
- 
+
+
+ 
 HH — Dallas Happy Hour
 Privacy Policy
 Effective Date: May 16, 2026
