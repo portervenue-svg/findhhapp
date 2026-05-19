@@ -10,7 +10,7 @@ PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE APP. BY CREATING AN ACCOUNT O
 This End User License Agreement and Terms of Service ("Agreement") is a legal agreement between you ("User," "you," or "your") and Find HH ("Company," "we," "us," or "our") governing your use of the HH Dallas Happy Hour mobile application ("App").
 By downloading, installing, accessing, or using the App, you confirm that you are at least 17 years of age, that you have read and understood this Agreement, and that you agree to be bound by its terms.
 
-3. License Grant
+2. License Grant
 Subject to your compliance with this Agreement, we grant you a limited, non-exclusive, non-transferable, revocable license to download and use the App on your personal device for personal, non-commercial purposes.
 You may not:
 •	Copy, modify, distribute, sell, or lease any part of the App
@@ -19,7 +19,7 @@ You may not:
 •	Use the App to transmit any harmful, offensive, or objectionable content
 •	Attempt to gain unauthorized access to any part of the App or its infrastructure
 
-4. User Accounts
+3. User Accounts
 To access certain features of the App, you must create an account. You agree to:
 •	Provide accurate and complete information when creating your account
 •	Keep your password secure and not share it with others
@@ -55,16 +55,14 @@ You agree NOT to submit User Content that:
 We have a zero-tolerance policy for objectionable content and abusive users. Violations will result in immediate content removal and account termination.
 
 6. Content Moderation & Reporting
-We are committed to maintaining a safe, accurate, and respectful community. The following mechanisms are available to all users:
-Reporting Content
-You may flag any venue listing or user-submitted content as objectionable by tapping the Report button on any listing. Reports are sent directly to our moderation team.
-Blocking Users
-You may block any user whose submissions you find abusive or inappropriate. Blocking a user will immediately remove their content from your view and notify our moderation team for review.
+All user-submitted happy hour listings are reviewed and approved by our administrative team before they are published in the App. No user-submitted content is visible to other users without prior admin approval. This pre-publication review process is our primary safeguard against objectionable or inaccurate content.
+Reporting Published Listings
+If you believe a published listing contains inaccurate, misleading, or objectionable information, you may report it by tapping the Report button on any listing. Reports are sent directly to our moderation team for immediate review.
 Our Commitments
-•	We will review all reported content within 24 hours of receiving a report
-•	Content found to violate these Terms will be removed promptly
-•	Users who submit objectionable content or engage in abusive behavior will be removed from the platform
-•	Repeat violations will result in permanent account termination
+•	All submitted content is reviewed by our team before publication
+•	Reported published listings will be reviewed and acted on within 24 hours
+•	Content that violates our Terms will be removed and the submitting user’s account may be suspended or permanently terminated
+•	We reserve the right to reject any submission that is inaccurate, promotional, misleading, or otherwise objectionable, without notice
 
 7. Age Requirements & Alcohol Content
 The App is intended for users who are at least 17 years of age. The App contains references to alcoholic beverages and is not appropriate for users under 17. By using the App, you confirm that you are at least 17 years old.
@@ -106,6 +104,7 @@ This Privacy Policy has been updated to reflect: (1) user-submitted content, (2)
 
 1. Introduction
 Welcome to HH (“the App”), operated by Find HH (“we,” “us,” or “our”). This Privacy Policy explains how we collect, use, store, and protect information when you use the App. By using the App, you agree to the practices described in this policy.
+
 2. Information We Collect
 a. Information You Provide Directly
 •	Email address — collected when you create an account
@@ -129,12 +128,12 @@ We use the information we collect to:
 •	Investigate and act on reports of objectionable content or abusive behavior
 •	Comply with legal obligations and enforce our Terms of Service
 
-
 We do not sell your personal information. We do not use your data for advertising purposes.
 
 4. User-Submitted Content
-When you submit happy hour listings or venue information through the App, that content becomes part of the App’s database and may be visible to other users. Please do not include personal information in content submissions. We reserve the right to edit, moderate, or remove any submitted content that violates our Terms of Service.
-If you submit content that is found to be objectionable or in violation of our policies, we will remove it within 24 hours of it being reported, and your account may be suspended or terminated.
+When you submit happy hour listings or venue information through the App, that content is reviewed by our administrative team before it is published. Submissions are not visible to other users until approved. Please do not include personal information in content submissions. We reserve the right to reject, edit, or remove any submitted content that is inaccurate, misleading, or in violation of our Terms of Service.
+If published content is reported and found to be objectionable or in violation of our policies, we will remove it within 24 hours of the report. The account responsible for the submission may be suspended or permanently terminated.
+
 
 5. Data Sharing
 We do not share your personal information with third parties except in the following limited circumstances:
@@ -146,7 +145,7 @@ We do not share your personal information with third parties except in the follo
 6. Data Retention
 We retain your account information for as long as your account is active. User-submitted content may be retained after account deletion in anonymized form for database integrity purposes.
 
-8. Account Deletion
+7. Account Deletion
 You may permanently delete your account at any time by navigating to Settings > Account > Delete Account within the App. Upon deletion:
 •	Your account credentials and profile data will be permanently removed within 30 days
 •	Your submitted content may be anonymized or removed
@@ -160,16 +159,16 @@ Depending on your location, you may have the right to access, correct, or delete
 9. Security
 We implement reasonable technical and organizational measures to protect your information, including encryption of passwords and secure data transmission. However, no method of electronic storage or transmission is 100% secure, and we cannot guarantee absolute security.
 
-11. Children’s Privacy
+10. Children’s Privacy
 The App is not directed to individuals under the age of 17. We do not knowingly collect personal information from anyone under 17. If we become aware that we have inadvertently collected such information, we will delete it promptly.
 
-13. Third-Party Services
+11. Third-Party Services
 The App may use third-party login services (such as Sign in with Apple) and may display links to third-party venue websites. We are not responsible for the privacy practices of those third parties and encourage you to review their policies.
 
-15. Changes to This Policy
+12. Changes to This Policy
 We may update this Privacy Policy from time to time. We will notify you of material changes by updating the effective date and, where appropriate, by in-app notification or email. Continued use of the App following any changes constitutes your acceptance of the updated policy.
 
-17. Contact Us
+13. Contact Us
 If you have questions about this Privacy Policy, want to report a privacy concern, or wish to exercise your data rights, please contact us:
 
 Email: portervenue@gmail.com
